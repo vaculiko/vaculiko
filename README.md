@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ondra
-- 👀 I’m interested in optics, spectroscopy, hypersepctral imaging and physics in general.
+- 👀 I’m interested in optics, hypersepctral imaging and physics in general.
 - 🌱 I’m currently learning Python and machine learning in Keras.
-- 💞️ I’m looking to collaborate on computer vision projects, Python web-development.
+- 💞️ I’m looking to collaborate on computer vision projects and Python web-development.
 - 📫 You can reach me on vaculiko42@gmail.com
 
 <!---
